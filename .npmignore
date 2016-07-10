@@ -1,0 +1,13 @@
+node_modules
+xunit.xml
+npm-debug.log
+
+.project
+.idea
+
+.DS_Store*
+Thumbs.db
+todo.txt
+
+test
+travis.yml
