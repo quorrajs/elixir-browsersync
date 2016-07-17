@@ -1,5 +1,5 @@
 {
-  "name": "@positron/browsersync",
+  "name": "@positron/elixir-browsersync",
   "version": "0.0.1",
   "description": "Quorra Browsersync integration.",
   "main": "index.js",
